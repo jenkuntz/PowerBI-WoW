@@ -1,1 +1,3 @@
-## These are my submissions for the #WorkoutWednesday challenges at https://workout-wednesday.com/power-bi-challenges/
+## These are my submissions for the #WorkoutWednesday challenges
+
+https://workout-wednesday.com/power-bi-challenges/
